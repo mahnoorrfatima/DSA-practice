@@ -11,7 +11,7 @@ Tracking **NeetCode 150** problems with clean solutions and approach breakdowns.
 
 ### 📊 Arrays & Hashing (1/12)
 - [x] [Contains Duplicate](contains-duplicate.py) 
-- [ ] [Valid Anagram](arrays-hashing/valid-anagram/)
+- [x] [Valid Anagram](valid-anagram.py)
 - [ ] [Two Sum](arrays-hashing/two-sum/)
 - [ ] [Group Anagrams](arrays-hashing/group-anagrams/)
 - [ ] [Top K Elements](arrays-hashing/top-k-elements/)
