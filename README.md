@@ -9,7 +9,7 @@ Tracking **NeetCode 150** problems with clean solutions and approach breakdowns.
 
 ## Progress Tracker
 
-### 📊 Arrays & Hashing (2/12)
+### 📊 Arrays & Hashing (3/12)
 - [x] [Contains Duplicate](contains-duplicate.py) 
 - [x] [Valid Anagram](valid-anagram.py)
 - [x] [Two Sum](Two-sum.py)
