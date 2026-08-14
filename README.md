@@ -9,11 +9,11 @@ Tracking **NeetCode 150** problems with clean solutions and approach breakdowns.
 
 ## Progress Tracker
 
-### 📊 Arrays & Hashing (3/12)
+### 📊 Arrays & Hashing (4/12)
 - [x] [Contains Duplicate](contains-duplicate.py) 
 - [x] [Valid Anagram](valid-anagram.py)
 - [x] [Two Sum](Two-sum.py)
-- [ ] [Group Anagrams](arrays-hashing/group-anagrams/)
+- [x] [Group Anagrams](group-anagrams.py)
 - [ ] [Top K Elements](arrays-hashing/top-k-elements/)
 - [ ] [Encode Decode Strings](arrays-hashing/encode-decode-strings/)
 - [ ] [Product of Array Except Self](arrays-hashing/product-of-array-except-self/)
