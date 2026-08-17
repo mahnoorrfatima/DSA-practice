@@ -3,13 +3,13 @@
 Tracking **NeetCode 150** problems with clean solutions and approach breakdowns.
 
 **Timeline:** 6-week intensive sprint  
-**Status:** Week X/6 | **Total Completed:** 0/150
+**Status:** Week X/6 | **Total Completed:** 5/150
 
 ---
 
 ## Progress Tracker
 
-### 📊 Arrays & Hashing (4/12)
+### 📊 Arrays & Hashing (5/12)
 - [x] [Contains Duplicate](contains-duplicate.py) 
 - [x] [Valid Anagram](valid-anagram.py)
 - [x] [Two Sum](Two-sum.py)
