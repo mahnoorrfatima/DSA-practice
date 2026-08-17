@@ -14,7 +14,7 @@ Tracking **NeetCode 150** problems with clean solutions and approach breakdowns.
 - [x] [Valid Anagram](valid-anagram.py)
 - [x] [Two Sum](Two-sum.py)
 - [x] [Group Anagrams](group-anagrams.py)
-- [ ] [Top K Elements](arrays-hashing/top-k-elements/)
+- [x] [Top K Elements](Top-K-Elements.py)
 - [ ] [Encode Decode Strings](arrays-hashing/encode-decode-strings/)
 - [ ] [Product of Array Except Self](arrays-hashing/product-of-array-except-self/)
 - [ ] [Valid Sudoku](arrays-hashing/valid-sudoku/)
