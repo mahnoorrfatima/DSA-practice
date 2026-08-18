@@ -3,13 +3,13 @@
 Tracking **NeetCode 150** problems with clean solutions and approach breakdowns.
 
 **Timeline:** 6-week intensive sprint  
-**Status:** Week X/6 | **Total Completed:** 7/150
+**Status:** Week X/6 | **Total Completed:** 8/150
 
 ---
 
 ## Progress Tracker
 
-### 📊 Arrays & Hashing (7/12)
+### 📊 Arrays & Hashing (8/12)
 - [x] [Contains Duplicate](contains-duplicate.py) 
 - [x] [Valid Anagram](valid-anagram.py)
 - [x] [Two Sum](Two-sum.py)
@@ -17,7 +17,7 @@ Tracking **NeetCode 150** problems with clean solutions and approach breakdowns.
 - [x] [Top K Elements](Top-K-Elements.py)
 - [x] [Encode Decode Strings](Encode-Decode-Strings.py)
 - [x] [Product of Array Except Self](Products-of-Array-Except-Self.py)
-- [ ] [Valid Sudoku](arrays-hashing/valid-sudoku/)
+- [x] [Valid Sudoku](Valid-Sudoku.py)
 - [ ] [Longest Consecutive](arrays-hashing/longest-consecutive/)
 - [ ] [LRU Cache](arrays-hashing/lru-cache/)
 - [ ] [Largest Rectangle in Histogram](arrays-hashing/largest-rectangle-in-histogram/)
