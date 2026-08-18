@@ -3,20 +3,20 @@
 Tracking **NeetCode 150** problems with clean solutions and approach breakdowns.
 
 **Timeline:** 6-week intensive sprint  
-**Status:** Week X/6 | **Total Completed:** 6/150
+**Status:** Week X/6 | **Total Completed:** 7/150
 
 ---
 
 ## Progress Tracker
 
-### 📊 Arrays & Hashing (6/12)
+### 📊 Arrays & Hashing (7/12)
 - [x] [Contains Duplicate](contains-duplicate.py) 
 - [x] [Valid Anagram](valid-anagram.py)
 - [x] [Two Sum](Two-sum.py)
 - [x] [Group Anagrams](group-anagrams.py)
 - [x] [Top K Elements](Top-K-Elements.py)
 - [x] [Encode Decode Strings](Encode-Decode-Strings.py)
-- [ ] [Product of Array Except Self](arrays-hashing/product-of-array-except-self/)
+- [x] [Product of Array Except Self](Products-of-Array-Except-Self.py)
 - [ ] [Valid Sudoku](arrays-hashing/valid-sudoku/)
 - [ ] [Longest Consecutive](arrays-hashing/longest-consecutive/)
 - [ ] [LRU Cache](arrays-hashing/lru-cache/)
