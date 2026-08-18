@@ -29,3 +29,8 @@ class Solution:
         i= j+1+length # i moves to the beginning of the next encoded string
 
       return result 
+
+#Complexities: 
+#Time: O(n)
+#Space: O(n) 
+
