@@ -3,7 +3,7 @@
 Tracking **NeetCode 150** problems with clean solutions and approach breakdowns.
 
 **Timeline:** 6-week intensive sprint  
-**Status:** Week X/6 | **Total Completed:** 9/150
+**Status:** Week X/6 | **Total Completed:** 10/150
 
 ---
 
@@ -23,8 +23,8 @@ Tracking **NeetCode 150** problems with clean solutions and approach breakdowns.
 - [ ] [Largest Rectangle in Histogram](arrays-hashing/largest-rectangle-in-histogram/)
 - [ ] [Sliding Window Maximum](arrays-hashing/sliding-window-maximum/)
 
-### 📊 Two Pointers (0/11)
-- [ ] [Valid Palindrome](two-pointers/valid-palindrome/)
+### 📊 Two Pointers (1/11)
+- [x] [Valid Palindrome](Valid-Palindrome.py)
 - [ ] [Two Sum II Input Array Is Sorted](two-pointers/two-sum-ii-input-array-is-sorted/)
 - [ ] [3Sum](two-pointers/3sum/)
 - [ ] [Container With Most Water](two-pointers/container-with-most-water/)
